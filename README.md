@@ -1,6 +1,6 @@
 # Motion activated photo capture with ESP32-CAM, PIR sensor, and MQTT
 
-Making a motion triggered camera shot with ESP32-CAM and publishing it to the flespi MQTT broker.
+[Making a motion triggered camera shot with ESP32-CAM and publishing it to the flespi MQTT broker.](https://flespi.com/blog/esp32-cam-motion-triggered-photo-mqtt)
 
 ![Project scheme fritzing](scheme.png "ESP32-CAM + PIR + USB2TTL")
 
